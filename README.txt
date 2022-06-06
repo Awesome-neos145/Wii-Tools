@@ -3,7 +3,7 @@ This must be run as admin though.
 
 
 
-
+I regret to inform you, that WiiTools cant work on Windows 7.
 
 
 
